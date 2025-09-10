@@ -1,50 +1,59 @@
-# Welcome to your Expo app 👋
+# RiskTrack - Sistema de Gerenciamento de Riscos
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Este é o repositório oficial do projeto de Conclusão de Curso (TCC) **RiskTrack**.
 
-## Get started
+## ⚠️ Aviso Importante
 
-1. Install dependencies
+Este projeto é estritamente para fins acadêmicos e faz parte do meu Trabalho de Conclusão de Curso. Portanto, **NÃO É PERMITIDA a cópia, distribuição ou utilização total ou parcial deste código para outros trabalhos acadêmicos ou projetos comerciais sem autorização prévia.**
 
-   ```bash
-   npm install
-   ```
+O plágio é uma violação dos direitos autorais e da ética acadêmica.
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 📖 Sobre o Projeto
 
-In the output, you'll find options to open the app in a
+O RiskTrack é um sistema desenvolvido para **<-- AQUI VOCÊ COLOCA O OBJETIVO PRINCIPAL DO SEU PROJETO -->**. A plataforma busca solucionar o problema de **<-- AQUI VOCÊ DESCREVE O PROBLEMA QUE SEU PROJETO RESOLVE -->**, oferecendo funcionalidades como:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+* **<-- Funcionalidade 1 (ex: Cadastro e categorização de riscos) -->**
+* **<-- Funcionalidade 2 (ex: Matriz de probabilidade e impacto) -->**
+* **<-- Funcionalidade 3 (ex: Geração de planos de mitigação) -->**
+* **<-- Funcionalidade 4 (ex: Dashboard visual para acompanhamento) -->**
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🛠️ Tecnologias Utilizadas
 
-## Get a fresh project
+As principais tecnologias e ferramentas utilizadas no desenvolvimento do RiskTrack foram:
 
-When you're ready, run:
+* **Linguagem de Programação:** **<-- Ex: Python, Java, JavaScript -->**
+* **Framework (Backend):** **<-- Ex: Django, Spring Boot, Node.js -->**
+* **Framework (Frontend):** **<-- Ex: React, Angular, Vue.js -->**
+* **Banco de Dados:** **<-- Ex: PostgreSQL, MySQL, MongoDB -->**
+* **Outras Ferramentas:** **<-- Ex: Docker, Git, etc. -->**
 
-```bash
-npm run reset-project
-```
+## 🚀 Como Executar o Projeto
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+**<-- (OPCIONAL, MAS RECOMENDADO) AQUI VOCÊ PODE COLOCAR AS INSTRUÇÕES BÁSICAS PARA ALGUÉM (COMO UM AVALIADOR) EXECUTAR SEU PROJETO LOCALMENTE. POR EXEMPLO: -->**
 
-## Learn more
+1.  Clone o repositório:
+    ```bash
+    git clone [https://github.com/seu-usuario/risktrack.git](https://github.com/seu-usuario/risktrack.git)
+    ```
+2.  Acesse a pasta do projeto:
+    ```bash
+    cd risktrack
+    ```
+3.  Instale as dependências:
+    ```bash
+    npm install
+    ```
+4.  Inicie a aplicação:
+    ```bash
+    npm start
+    ```
 
-To learn more about developing your project with Expo, look at the following resources:
+## 📫 Contato e Contribuições
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Qualquer dúvida, sugestão ou observação sobre o projeto é muito bem-vinda!
 
-## Join the community
+* **Email:** [stephaniecarolamarante@gmail.com](mailto:stephaniecarolamarante@gmail.com)
 
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Se você encontrar algum problema ou tiver uma sugestão de melhoria, por favor, **abra uma [Issue](https://github.com/seu-usuario/risktrack/issues)** neste repositório.
