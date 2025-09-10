@@ -12,26 +12,35 @@ O plágio é uma violação dos direitos autorais e da ética acadêmica.
 
 ## 📖 Sobre o Projeto
 
-O RiskTrack é um sistema desenvolvido para **<-- AQUI VOCÊ COLOCA O OBJETIVO PRINCIPAL DO SEU PROJETO -->**. A plataforma busca solucionar o problema de **<-- AQUI VOCÊ DESCREVE O PROBLEMA QUE SEU PROJETO RESOLVE -->**, oferecendo funcionalidades como:
+O RiskTrack é um sistema desenvolvido para ajudar pequenos empreendedores a gerenciar os riscos de segurança da informação do seu negócio. A plataforma oferece as seguintes funcionalidades:
 
-* **<-- Funcionalidade 1 (ex: Cadastro e categorização de riscos) -->**
-* **<-- Funcionalidade 2 (ex: Matriz de probabilidade e impacto) -->**
-* **<-- Funcionalidade 3 (ex: Geração de planos de mitigação) -->**
-* **<-- Funcionalidade 4 (ex: Dashboard visual para acompanhamento) -->**
+* **Cadastro e categorização de riscos de segurança**
+* **Avaliação de probabilidade e impacto dos riscos**
+* **Geração de planos de ação e mitigação**
+* **Dashboard visual com indicadores e relatórios**
+* **Relatórios personalizados para análise de riscos**
 
 ## 🛠️ Tecnologias Utilizadas
 
 As principais tecnologias e ferramentas utilizadas no desenvolvimento do RiskTrack foram:
 
-* **Linguagem de Programação:** **<-- Ex: Python, Java, JavaScript -->**
-* **Framework (Backend):** **<-- Ex: Django, Spring Boot, Node.js -->**
-* **Framework (Frontend):** **<-- Ex: React, Angular, Vue.js -->**
-* **Banco de Dados:** **<-- Ex: PostgreSQL, MySQL, MongoDB -->**
-* **Outras Ferramentas:** **<-- Ex: Docker, Git, etc. -->**
+* **Linguagem de Programação:** JavaScript
+* **Framework Frontend:** React.js
+* **Backend como Serviço:** Firebase
+* **Banco de Dados:** Firebase Firestore (NoSQL)
+* **Autenticação:** Firebase Authentication
+* **Hospedagem:** Firebase Hosting
+* **Outras Ferramentas:** Git, GitHub, Visual Studio Code
 
 ## 🚀 Como Executar o Projeto
 
-**<-- (OPCIONAL, MAS RECOMENDADO) AQUI VOCÊ PODE COLOCAR AS INSTRUÇÕES BÁSICAS PARA ALGUÉM (COMO UM AVALIADOR) EXECUTAR SEU PROJETO LOCALMENTE. POR EXEMPLO: -->**
+### Pré-requisitos:
+- Node.js (versão 16 ou superior)
+- Conta no Firebase
+- npm ou yarn
+
+
+## 🚀 Como Executar o Projeto
 
 1.  Clone o repositório:
     ```bash
@@ -56,4 +65,4 @@ Qualquer dúvida, sugestão ou observação sobre o projeto é muito bem-vinda!
 
 * **Email:** [stephaniecarolamarante@gmail.com](mailto:stephaniecarolamarante@gmail.com)
 
-Se você encontrar algum problema ou tiver uma sugestão de melhoria, por favor, **abra uma [Issue](https://github.com/seu-usuario/risktrack/issues)** neste repositório.
+Se você encontrar algum problema ou tiver uma sugestão de melhoria, por favor, **abra uma [Issue](https://github.com/SteAmarante/projeto-final-tcc/issues)** neste repositório.
