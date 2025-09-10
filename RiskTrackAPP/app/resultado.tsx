@@ -1,6 +1,7 @@
 import React from 'react';
 import { View, Text, StyleSheet, TouchableOpacity, SafeAreaView } from 'react-native';
-import { useLocalSearchParams, useRouter } from 'expo-router';
+import { Link, useLocalSearchParams, useRouter } from 'expo-router';
+
 
 export default function ResultScreen() {
   const router = useRouter();
@@ -44,9 +45,12 @@ export default function ResultScreen() {
       <Text style={styles.recommendation}>{details.recommendation}</Text>
 
       {/* ALTERAÇÃO AQUI: O botão agora leva para a tela de login */}
-      <TouchableOpacity style={styles.button} onPress={() => router.push('/login')}>
-        <Text style={styles.buttonText}>CONSULTAR</Text>
-      </TouchableOpacity>
+      <Link href="/login" asChild>
+        <TouchableOpacity style={styles.button}>
+          <Text style={styles.buttonText}>CONSULTAR</Text>
+        </TouchableOpacity>
+      </Link>
+
 
       <TouchableOpacity style={styles.restartButton} onPress={() => router.replace('/')}>
         <Text style={styles.restartButtonText}>Refazer Avaliação</Text>
