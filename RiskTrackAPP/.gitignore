@@ -38,3 +38,13 @@ yarn-error.*
 
 app-example
 android/app/google-services.json
+
+# Google Services and API keys
+google-services.json
+google-services/
+android/app/google-services.json
+android/app/google-services/
+*.json
+.env
+.env.local
+.keys

@@ -25,6 +25,7 @@
         <category android:name="android.intent.category.DEFAULT"/>
         <category android:name="android.intent.category.BROWSABLE"/>
         <data android:scheme="risktrackapp"/>
+        <data android:scheme="exp+risktrackapp"/>
       </intent-filter>
     </activity>
   </application>
